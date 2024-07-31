@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4192b22a-5f67-486a-bb4d-66a740ce86ed" name="Changes" comment="First Lessons" />
+    <list default="true" id="4192b22a-5f67-486a-bb4d-66a740ce86ed" name="Changes" comment="First Lessons">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,28 +30,35 @@
               </list>
             </value>
           </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
         </map>
       </branch-storage>
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ericksaymon"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ericksaymon&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ericksaymon/JavaClasses.git",
-    "accountId": "27c68292-558c-4c34-91ec-358c6eec6fd6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ericksaymon/JavaClasses.git&quot;,
+    &quot;accountId&quot;: &quot;27c68292-558c-4c34-91ec-358c6eec6fd6&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -70,6 +79,7 @@
     "Application.aula02TiposPrimitivos.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Saymon/Desktop/workspace/maratona-java",
     "node.js.detected.package.eslint": "true",
@@ -81,11 +91,11 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "Errors",
+    "settings.editor.selected.configurable": "project.scopes",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Class05ConditionalStructures">
+  <component name="RunManager" selected="Application.Class02PrimitiveTypes">
     <configuration name="Class01HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.introducao.Class01HelloWorld" />
       <module name="maratona-java" />
@@ -94,6 +104,8 @@
       </method>
     </configuration>
     <configuration name="Class02PrimitiveTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="15" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.introducao.Class02PrimitiveTypes" />
       <module name="maratona-java" />
       <extension name="coverage">
@@ -147,10 +159,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Class02PrimitiveTypes" />
         <item itemvalue="Application.Class05ConditionalStructures" />
         <item itemvalue="Application.Class04Operators" />
         <item itemvalue="Application.Class03PrimitiveTypesActivities" />
-        <item itemvalue="Application.Class02PrimitiveTypes" />
         <item itemvalue="Application.Class01HelloWorld" />
       </list>
     </recent_temporary>
@@ -177,6 +189,11 @@
       <workItem from="1721937831834" duration="2679000" />
       <workItem from="1722255525535" duration="14239000" />
       <workItem from="1722425719714" duration="1348000" />
+      <workItem from="1722427432437" duration="205000" />
+      <workItem from="1722427652555" duration="142000" />
+      <workItem from="1722427812615" duration="28000" />
+      <workItem from="1722427844544" duration="197000" />
+      <workItem from="1722428080483" duration="789000" />
     </task>
     <task id="LOCAL-00001" summary="First Lessons">
       <option name="closed" value="true" />
@@ -186,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722427013380</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Lessons">
+      <option name="closed" value="true" />
+      <created>1722427589050</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722427589050</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +228,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
