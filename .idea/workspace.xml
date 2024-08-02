@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4192b22a-5f67-486a-bb4d-66a740ce86ed" name="Changes" comment="First Lessons">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/introducao/Class05ConditionalStructures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/introducao/Class05ConditionalStructures.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,7 @@
     "Application.Class02PrimitiveTypes.executor": "Run",
     "Application.Class03PrimitiveTypesActivities.executor": "Debug",
     "Application.Class04Operators.executor": "Run",
-    "Application.Class05ConditionalStructures.executor": "Debug",
+    "Application.Class05ConditionalStructures.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.aula02TiposPrimitivos.executor": "Run",
@@ -95,7 +96,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Class02PrimitiveTypes">
+  <component name="RunManager" selected="Application.Class05ConditionalStructures">
     <configuration name="Class01HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.introducao.Class01HelloWorld" />
       <module name="maratona-java" />
@@ -159,8 +160,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Class02PrimitiveTypes" />
         <item itemvalue="Application.Class05ConditionalStructures" />
+        <item itemvalue="Application.Class02PrimitiveTypes" />
         <item itemvalue="Application.Class04Operators" />
         <item itemvalue="Application.Class03PrimitiveTypesActivities" />
         <item itemvalue="Application.Class01HelloWorld" />
@@ -193,7 +194,8 @@
       <workItem from="1722427652555" duration="142000" />
       <workItem from="1722427812615" duration="28000" />
       <workItem from="1722427844544" duration="197000" />
-      <workItem from="1722428080483" duration="789000" />
+      <workItem from="1722428080483" duration="936000" />
+      <workItem from="1722524556811" duration="5752000" />
     </task>
     <task id="LOCAL-00001" summary="First Lessons">
       <option name="closed" value="true" />
@@ -211,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722427589050</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First Lessons">
+      <option name="closed" value="true" />
+      <created>1722428910665</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722428910665</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
