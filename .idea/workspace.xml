@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4192b22a-5f67-486a-bb4d-66a740ce86ed" name="Changes" comment="First Lessons">
+    <list default="true" id="4192b22a-5f67-486a-bb4d-66a740ce86ed" name="Changes" comment="Conditional Structures">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/introducao/Class05ConditionalStructures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/introducao/Class05ConditionalStructures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/introducao/Class01HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/introduction/Class01HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/introducao/Class02PrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/introduction/Class02PrimitiveTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/introducao/Class03PrimitiveTypesActivities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/introduction/Class03PrimitiveTypesActivities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/introducao/Class04Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/introduction/Class04Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/introducao/Class05ConditionalStructures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/introduction/Class05ConditionalStructures.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,75 +74,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Class02PrimitiveTypes.executor": "Run",
-    "Application.Class03PrimitiveTypesActivities.executor": "Debug",
-    "Application.Class04Operators.executor": "Run",
-    "Application.Class05ConditionalStructures.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.aula02TiposPrimitivos.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Saymon/Desktop/workspace/maratona-java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Saymon/Desktop/workspace/maratona-java/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.scopes",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Class02PrimitiveTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Class03PrimitiveTypesActivities.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Class04Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Class05ConditionalStructures.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Class06RepetitionStructures.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Class07Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Class08MultidimensionalArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula02TiposPrimitivos.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Saymon/Desktop/workspace/maratona-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Saymon/Desktop/workspace/maratona-java/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Class05ConditionalStructures">
-    <configuration name="Class01HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.introducao.Class01HelloWorld" />
-      <module name="maratona-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Class02PrimitiveTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="15" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.introducao.Class02PrimitiveTypes" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cloud.ericksaymon.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Class03PrimitiveTypesActivities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.introducao.Class03PrimitiveTypesActivities" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cloud.ericksaymon.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.Class08MultidimensionalArrays">
     <configuration name="Class04Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.introducao.Class04Operators" />
+      <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.introduction.Class04Operators" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cloud.ericksaymon.maratonajava.introducao.*" />
+          <option name="PATTERN" value="cloud.ericksaymon.maratonajava.introduction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +119,50 @@
       </method>
     </configuration>
     <configuration name="Class05ConditionalStructures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.introducao.Class05ConditionalStructures" />
+      <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.introduction.Class05ConditionalStructures" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cloud.ericksaymon.maratonajava.introducao.*" />
+          <option name="PATTERN" value="cloud.ericksaymon.maratonajava.introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Class06RepetitionStructures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.introduction.Class06RepetitionStructures" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cloud.ericksaymon.maratonajava.introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Class07Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.introduction.Class07Arrays" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cloud.ericksaymon.maratonajava.introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Class08MultidimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.introduction.Class08MultidimensionalArrays" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cloud.ericksaymon.maratonajava.introduction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Class08MultidimensionalArrays" />
+        <item itemvalue="Application.Class07Arrays" />
+        <item itemvalue="Application.Class06RepetitionStructures" />
         <item itemvalue="Application.Class05ConditionalStructures" />
-        <item itemvalue="Application.Class02PrimitiveTypes" />
         <item itemvalue="Application.Class04Operators" />
-        <item itemvalue="Application.Class03PrimitiveTypesActivities" />
-        <item itemvalue="Application.Class01HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +207,11 @@
       <workItem from="1722427812615" duration="28000" />
       <workItem from="1722427844544" duration="197000" />
       <workItem from="1722428080483" duration="936000" />
-      <workItem from="1722524556811" duration="5752000" />
+      <workItem from="1722524556811" duration="7841000" />
+      <workItem from="1722862026082" duration="5976000" />
+      <workItem from="1723064810320" duration="622000" />
+      <workItem from="1723117716878" duration="8816000" />
+      <workItem from="1723636605772" duration="1131000" />
     </task>
     <task id="LOCAL-00001" summary="First Lessons">
       <option name="closed" value="true" />
@@ -221,7 +237,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722428910665</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Conditional Structures">
+      <option name="closed" value="true" />
+      <created>1722613955205</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722613955206</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Conditional Structures">
+      <option name="closed" value="true" />
+      <created>1722613988756</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722613988756</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,10 +284,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Lessons" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Lessons" />
+    <MESSAGE value="Conditional Structures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conditional Structures" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/introduction/Class05ConditionalStructures.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint enabled="true" type="java-exception" />
       </default-breakpoints>

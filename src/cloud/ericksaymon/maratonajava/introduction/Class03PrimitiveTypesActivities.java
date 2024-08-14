@@ -1,4 +1,4 @@
-package cloud.ericksaymon.maratonajava.introducao;
+package cloud.ericksaymon.maratonajava.introduction;
 
 public class Class03PrimitiveTypesActivities {
     public static void main(String[] args) {
