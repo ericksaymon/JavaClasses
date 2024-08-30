@@ -5,7 +5,14 @@ public class Student {
     public int age;
     public char sex;
 
-    public void printStudentData() {
-        System.out.println("Name: " + this.name + "\n");
+    public void printName () {
+        System.out.println(this.name);
+    }
+    public void printAge () {
+        System.out.println(this.age);
+    }
+
+    public void printSex () {
+        System.out.println(this.sex);
     }
 }

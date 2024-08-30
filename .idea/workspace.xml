@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4192b22a-5f67-486a-bb4d-66a740ce86ed" name="Changes" comment="Objects">
+    <list default="true" id="4192b22a-5f67-486a-bb4d-66a740ce86ed" name="Changes" comment="New Activities">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/javacore/Bmethodsintroduction/domain/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/javacore/Bmethodsintroduction/domain/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/javacore/Bmethodsintroduction/test/TestStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/javacore/Bmethodsintroduction/test/TestStudent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,42 +70,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Car01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Class02PrimitiveTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Class03PrimitiveTypesActivities.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Class04Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Class05ConditionalStructures.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Class06RepetitionStructures.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Class07Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Class08MultidimensionalArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestPerson.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestPerson2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestStudent.executor&quot;: &quot;Run&quot;,
-    &quot;Application.aula02TiposPrimitivos.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Saymon/Desktop/workspace/maratona-java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Saymon/Desktop/workspace/maratona-java/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Car01.executor": "Run",
+    "Application.Class02PrimitiveTypes.executor": "Run",
+    "Application.Class03PrimitiveTypesActivities.executor": "Debug",
+    "Application.Class04Operators.executor": "Run",
+    "Application.Class05ConditionalStructures.executor": "Run",
+    "Application.Class06RepetitionStructures.executor": "Run",
+    "Application.Class07Arrays.executor": "Run",
+    "Application.Class08MultidimensionalArrays.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.TestCalculator.executor": "Run",
+    "Application.TestEmployee.executor": "Run",
+    "Application.TestPerson.executor": "Run",
+    "Application.TestPerson2.executor": "Run",
+    "Application.TestStudent.executor": "Run",
+    "Application.aula02TiposPrimitivos.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Saymon/Desktop/workspace/maratona-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Saymon/Desktop/workspace/maratona-java/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.TestStudent">
+}]]></component>
+  <component name="RunManager" selected="Application.TestEmployee">
     <configuration name="Car01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.javacore.Aclassintroduction.test.Car01" />
       <module name="maratona-java" />
@@ -130,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.javacore.Aclassintroduction.test.TestPerson" />
+    <configuration name="TestEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.javacore.Bmethodsintroduction.test.TestEmployee" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cloud.ericksaymon.maratonajava.javacore.Aclassintroduction.test.*" />
+          <option name="PATTERN" value="cloud.ericksaymon.maratonajava.javacore.Bmethodsintroduction.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestEmployee" />
         <item itemvalue="Application.TestStudent" />
         <item itemvalue="Application.TestCalculator" />
         <item itemvalue="Application.Car01" />
         <item itemvalue="Application.TestPerson2" />
-        <item itemvalue="Application.TestPerson" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +218,7 @@
       <workItem from="1723755170393" duration="5030000" />
       <workItem from="1724067533365" duration="7144000" />
       <workItem from="1724414393398" duration="677000" />
+      <workItem from="1724797014639" duration="3623000" />
     </task>
     <task id="LOCAL-00001" summary="First Lessons">
       <option name="closed" value="true" />
@@ -264,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723827564402</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="New Activities">
+      <option name="closed" value="true" />
+      <created>1724797041590</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724797041590</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +309,8 @@
     <MESSAGE value="First Lessons" />
     <MESSAGE value="Conditional Structures" />
     <MESSAGE value="Objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Objects" />
+    <MESSAGE value="New Activities" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Activities" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

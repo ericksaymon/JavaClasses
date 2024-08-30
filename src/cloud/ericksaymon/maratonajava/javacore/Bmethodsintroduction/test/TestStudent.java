@@ -9,7 +9,7 @@ public class TestStudent {
         Student student2 = new Student();
         PrintStudentData printer = new PrintStudentData();
 
-        student.name = "Mickel";
+        student.name = "Mickey";
         student.age = 26;
         student.sex = 'M';
 
@@ -17,7 +17,12 @@ public class TestStudent {
         student2.age = 23;
         student2.sex = 'F';
 
-        printer.printStudentData(student);
-        printer.printStudentData(student2);
+        student.printName();
+        student.printAge();
+        student.printSex();
+        System.out.println("---------");
+        student2.printName();
+        student2.printAge();
+        student2.printSex();
     }
 }
