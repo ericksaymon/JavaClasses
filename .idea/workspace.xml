@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4192b22a-5f67-486a-bb4d-66a740ce86ed" name="Changes" comment="New Activities">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/javacore/Bmethodsintroduction/domain/PrintStudentData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/javacore/Bmethodsintroduction/domain/PrintStudentData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/javacore/Bmethodsintroduction/domain/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/javacore/Bmethodsintroduction/domain/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/javacore/Bmethodsintroduction/test/TestStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloud/ericksaymon/maratonajava/javacore/Bmethodsintroduction/test/TestStudent.java" afterDir="false" />
     </list>
@@ -106,7 +107,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestEmployee">
+  <component name="RunManager" selected="Application.TestStudent">
     <configuration name="Car01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cloud.ericksaymon.maratonajava.javacore.Aclassintroduction.test.Car01" />
       <module name="maratona-java" />
@@ -174,8 +175,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestEmployee" />
         <item itemvalue="Application.TestStudent" />
+        <item itemvalue="Application.TestEmployee" />
         <item itemvalue="Application.TestCalculator" />
         <item itemvalue="Application.Car01" />
         <item itemvalue="Application.TestPerson2" />
@@ -218,7 +219,7 @@
       <workItem from="1723755170393" duration="5030000" />
       <workItem from="1724067533365" duration="7144000" />
       <workItem from="1724414393398" duration="677000" />
-      <workItem from="1724797014639" duration="3623000" />
+      <workItem from="1724797014639" duration="4916000" />
     </task>
     <task id="LOCAL-00001" summary="First Lessons">
       <option name="closed" value="true" />
@@ -276,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724797041590</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New Activities">
+      <option name="closed" value="true" />
+      <created>1725017916340</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725017916340</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

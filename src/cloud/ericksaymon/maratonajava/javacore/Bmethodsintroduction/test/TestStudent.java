@@ -9,20 +9,20 @@ public class TestStudent {
         Student student2 = new Student();
         PrintStudentData printer = new PrintStudentData();
 
-        student.name = "Mickey";
-        student.age = 26;
-        student.sex = 'M';
+        student.setName("Mickey");
+        student.setAge(26);
+        student.setGender('M');
 
-        student2.name = "Alya";
-        student2.age = 23;
-        student2.sex = 'F';
+        student2.setName("Alya");
+        student2.setAge(23);
+        student2.setGender('F');
 
-        student.printName();
-        student.printAge();
-        student.printSex();
+        System.out.println(student.getName());
+        System.out.println(student.getAge());
+        System.out.println(student.getGender());
         System.out.println("---------");
-        student2.printName();
-        student2.printAge();
-        student2.printSex();
+        System.out.println(student2.getName());
+        System.out.println(student2.getAge());
+        System.out.println(student2.getGender());
     }
 }
