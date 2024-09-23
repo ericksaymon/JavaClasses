@@ -4,7 +4,7 @@ public class Employee {
     private String name;
     private int age;
     private double[] salary;
-    private double sum;
+    private double averageSalary;
 
     public void setName(String name) {
         this.name = name;
@@ -38,11 +38,11 @@ public class Employee {
         }
     }
 
-    public void averageSalary() {
+    public void getAverageSalary() {
         for (double temp: this.salary) {
-            sum += temp;
+            averageSalary += temp;
         }
-        sum /= this.salary.length;
-        System.out.println("Average Salary: " + sum);
+        averageSalary /= this.salary.length;
+        System.out.println("Average Salary: " + averageSalary);
     }
 }

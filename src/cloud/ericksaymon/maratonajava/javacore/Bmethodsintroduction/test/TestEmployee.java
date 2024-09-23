@@ -11,6 +11,6 @@ public class TestEmployee {
         employee.setSalary(new double[] {2000D, 1900D, 2000D});
 
         employee.printData();
-        employee.averageSalary();
+        employee.getAverageSalary();
     }
 }
